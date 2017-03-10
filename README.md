@@ -1,6 +1,9 @@
 # projects-toolkit
 A set of resources and material to help reporters and editors better plan, execute, and evaluate editorial projects. By [Robin Kwong](www.robinkwong.com), Special Projects Editor, and Caroline Nevitt, Interactive Designer
 
+![ikea man](https://github.com/ft-interactive/projects-toolkit/raw/master/ikea-figure.png)
+
+
 ## Licence
 This software is published by the Financial Times under the [MIT licence](http://opensource.org/licenses/MIT). 
 
