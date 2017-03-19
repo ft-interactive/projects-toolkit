@@ -1,5 +1,7 @@
 # projects-toolkit
-A set of resources and material to help reporters and editors better plan, execute, and evaluate editorial projects. By [Robin Kwong](www.robinkwong.com), Special Projects Editor, and Caroline Nevitt, Interactive Designer
+A set of resources and material to help reporters and editors better plan, execute, and evaluate editorial projects. By [Robin Kwong](www.robinkwong.com), Special Projects Editor, and Caroline Nevitt, Interactive Designer.
+
+Read about the intention behind this toolkit [on Source OpenNews](https://source.opennews.org/articles/ikea-inspired-workflow/)
 
 ![ikea man](https://github.com/ft-interactive/projects-toolkit/raw/master/ikea-figure.png)
 
